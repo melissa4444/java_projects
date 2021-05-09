@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Project1Exception
+comment1.params=
+comment1.target=Project1Exception()
+comment2.params=errorMsg
+comment2.target=Project1Exception(java.lang.String)
+numComments=3

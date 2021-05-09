@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PhysiciansHelper
+comment1.params=
+comment1.target=PhysiciansHelper()
+comment1.text=Constructor\ symptomChecker\ map\ using\ TreeMap
+comment2.params=data
+comment2.target=void\ readFile(java.util.Scanner)
+comment3.params=
+comment3.target=void\ processDatafile()
+comment3.text=\ Reads\ a\ text\ file\ of\ illnesses\ and\ their\ symptoms.\n\t\ \ \ Each\ line\ in\ the\ file\ has\ the\ form\n\t\tIllness\:\ Symptom,\ Symptom,\ Symptom,\ ...\ \ \nStore\ data\ into\ symptomChecker\ map
+comment4.params=
+comment4.target=void\ processSymptoms()
+comment4.text=\ \ Read\ patient's\ symptoms\ in\ a\ line\ and\ adds\ them\ to\ the\ list.\n\t\tInput\ format\:\ Symptom,\ Symptom,\ Symptom,...\nShows\ diseases\ that\ match\ a\ given\ number\ of\ the\ symptoms.
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

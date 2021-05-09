@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MixedNumberInterface
+comment1.params=integerPart\ fractionPart
+comment1.target=void\ setMixedNumber(int,\ FractionInterface)
+comment1.text=\ Task\:\ Sets\ a\ MixedNumber\ to\ a\ given\ value.\n\ \ @param\ integerPart\ \ the\ whole\ number\n@param\ fractioPart\ \ the\ fraction
+comment2.params=integerPart\ fractionNumerator\ fractionDenominator
+comment2.target=void\ setMixedNumber(int,\ int,\ int)
+comment2.text=\ Task\:\ Sets\ a\ MixedNumber\ to\ a\ given\ value.\n\ \ @param\ integerPart\ \ the\ whole\ number\n\ \ @param\ fractionNumerator\ \ the\ integer\ numerator\n@param\ fractionDenominator\ \ the\ integer\ denominator
+comment3.params=
+comment3.target=int\ getIntegerPart()
+comment3.text=\ Task\:\ Gets\ the\ MixedNumber's\ whole\ part.\n@return\ the\ MixedNumber's\ whole\ part
+comment4.params=
+comment4.target=FractionInterface\ getFractionPart()
+comment4.text=\ Task\:\ Gets\ the\ MixedNumber's\ fraction\n@return\ the\ MixedNumber's\ fraction
+comment5.params=operand
+comment5.target=MixedNumberInterface\ addMixedNumber(MixedNumberInterface)
+comment5.text=\ Task\:\ Adds\ two\ MixedNumbers.\n\ \ @param\ operand\ \ a\ MixedNumber\ that\ is\ the\ second\ operand\ of\ the\ addition\n@return\ the\ sum\ of\ the\ invoking\ MixedNumber\ and\ the\ second\ operand
+comment6.params=operand
+comment6.target=MixedNumberInterface\ subtractMixedNumber(MixedNumberInterface)
+comment6.text=\ Task\:\ Subtracts\ two\ MixedNumbers.\n\ \ @param\ operand\ \ a\ MixedNumber\ that\ is\ the\ second\ operand\ of\ the\ subtraction\n@return\ the\ difference\ of\ the\ invoking\ MixedNumber\ and\ the\ second\ operand
+comment7.params=operand
+comment7.target=MixedNumberInterface\ multiplyMixedNumber(MixedNumberInterface)
+comment7.text=\ Task\:\ Multiplie\ two\ MixedNumbers.\n\ \ @param\ operand\ \ a\ MixedNumber\ that\ is\ the\ second\ operand\ of\ the\ multiplication\n@return\ the\ product\ of\ the\ invoking\ MixedNumber\ and\ the\ second\ operand
+comment8.params=operand
+comment8.target=MixedNumberInterface\ divideMixedNumber(MixedNumberInterface)
+comment8.text=\ Task\:\ Divides\ two\ MixedNumbers.\n\ \ @param\ operand\ \ a\ MixedNumber\ that\ is\ the\ second\ operand\ of\ the\ division\n@return\ the\ quotient\ of\ the\ invoking\ MixedNumber\ and\ the\ second\ operand
+numComments=9

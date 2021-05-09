@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlayingCardException
+comment0.text=\ class\ PlayingCardException\:\ It\ is\ used\ for\ errors\ related\ to\ Card\ and\ \n\ \ OneDeck\ objects.\n\ \ Do\ not\ modify\ this\ class\!\n
+comment1.params=
+comment1.target=PlayingCardException()
+comment1.text=Constructor\ to\ create\ a\ PlayingCardException\ object
+comment2.params=reason
+comment2.target=PlayingCardException(java.lang.String)
+numComments=3
